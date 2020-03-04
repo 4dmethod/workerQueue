@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="LogStyleSheet.xsl"?>
+<verifylog operation="Build" name="Worker Queue" structure="Roadrunner:Users:timnevels:Desktop:Worker Queue.4dbase:Worker Queue.4DB" data="" os="macOS Version 10.13.6 (Build 17G10021)">
+<start_timer time="2020-01-28T22:08:09-06:00"/>
+<stop_timer time="2020-01-28T22:08:11-06:00" success="true" user_canceled="false"/>
+<step title="Building component">
+<step title="Start compilation [2020-01-28T22:08:09]"></step>
+<step title="Start copying files : Roadrunner:Users:timnevels:Desktop:Worker Queue_Build:Components:Worker Queue.4dbase:Worker Queue.4DC"></step>
+<step title="End copying files : Roadrunner:Users:timnevels:Desktop:Worker Queue_Build:Components:Worker Queue.4dbase:Worker Queue.4DC"></step>
+<step title="End compilation [2020-01-28T22:08:11]"></step>
+</step>
+</verifylog>
